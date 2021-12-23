@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently building a website for a startup of my own. Also, doing both front-end and back-end on nodejs. 
+- 🔭 I’m currently building a website for a startup of my own. Also, i am all ears in new ideas and chances.
 
 ### Connect with me:
 
