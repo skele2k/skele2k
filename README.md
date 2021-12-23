@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on vibey.mn ( platform for house rentals)
+- 🔭 I’m currently building a website for a startup of my own. Also, doing both front-end and back-end on nodejs. 
 
 ### Connect with me:
 
