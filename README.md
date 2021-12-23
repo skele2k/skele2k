@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently building a website for a startup of my own. Also, i am all ears in new ideas and chances.
+- 🔭 I’m currently developing a web project for my startup. ( Finished early prototype, finding users is such a drag xD)
 
 ### Connect with me:
 
