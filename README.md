@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently developing a web project for my startup. ( Finished early prototype, finding users is such a drag xD)
+- 🔭 I’m currently developing a web project for my startup. ( Released an early prototype, Please checkout 'vibey.mn')
 
 ### Connect with me:
 
