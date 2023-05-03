@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I've developed a website before. The project is private.
-- 🔭 Currently developing a mobile application both frontend and backend. 
+- 🔭 I’m currently learning everything 
 
 ### Connect with me:
 
