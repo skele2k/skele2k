@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🔭 Software Engineer with experience of building scalable web applications leveraging frameworks such as NextJS, Vite, Quarkus, FastAPI
+- 🔭 I have experience building microservices, web applications, and AI agents.
+- 🔭 I have deployed and maintained microservices to cloud service providers such as AWS, and Microsoft Azure.
 - 🔭 Currently building an agentic trading assistant with LangGraph.  
 
 ### Connect with me:
