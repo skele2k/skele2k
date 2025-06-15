@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning everything 
+- 🔭 Software Engineer with experience of building scalable web applications leveraging frameworks such as NextJS, Vite, Quarkus, FastAPI
+- 🔭 Currently building an agentic trading assistant with LangGraph.  
 
 ### Connect with me:
 
